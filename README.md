@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DettoHu
 - 👀 I’m interested in C++ programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ && C#
 - 📫 How to reach me:   
 -         void discord()
 -         { 
