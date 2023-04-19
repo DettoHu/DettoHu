@@ -2,8 +2,8 @@
 - 👀 I’m interested in **C++**  and **C#**  programming
 - 🌱 I’m currently learning C++ && C#
 - 📫 How to reach me:   
-       ##discord##
-      Everything#7164
+       discord:
+-    Everything#7164
          
 -
 <!---
