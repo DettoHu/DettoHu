@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DettoHu
+- 👋 Hi
 
 
 
